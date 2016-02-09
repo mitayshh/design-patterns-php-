@@ -8,7 +8,7 @@ class singleton
 
 	}
 
-	private function singleton()
+	private function __construct()
 	{
 
 	}
